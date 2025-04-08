@@ -8,3 +8,6 @@ https://schemer1341.hatenablog.com
 https://schemer1341.hatenablog.com/entry/2019/05/04/002300
 
 chemical-engineer-learns-ai/20190504_simple_example_of_DQN at master · nakamura-13/chemical-engineer-learns-ai https://github.com/nakamura-13/chemical-engineer-learns-ai/tree/master/20190504_simple_example_of_DQN
+
+Reinforcement Learning (DQN) Tutorial — PyTorch Tutorials 2.6.0+cu124 documentation
+https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html
