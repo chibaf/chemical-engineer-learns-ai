@@ -3,12 +3,12 @@
 https://schemer1341.hatenablog.com
 
 ## installation pytorch on apple silicon mac
-<ur>
+<pre>
   brew update<br>
   brew upgrade<br>
   python3 -m pip install --upgrade pip<br>
   pip3 install --pre torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/nightly/cpu<br>
-</ur>
+</pre>
 
 ## references
 
