@@ -26,3 +26,13 @@ chemical-engineer-learns-ai/20190504_simple_example_of_DQN at master · nakamura
 
 Reinforcement Learning (DQN) Tutorial — PyTorch Tutorials 2.6.0+cu124 documentation
 https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html
+
+勾配法とQ Learningの関係
+
+深層強化学習アルゴリズムまとめ #機械学習 - Qiita　2020-09-10
+https://qiita.com/shionhonda/items/ec05aade07b5bea78081
+
+Q Learningとベイズ推定
+
+機械学習の「Q学習」にベイズ推定を取り入れると一体何が起こるのか？ - GIGAZINE　2020年11月02日
+https://gigazine.net/news/20201102-baayesian-perspective-q-learning/
