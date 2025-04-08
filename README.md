@@ -2,6 +2,14 @@
 ブログ『化学系エンジニアがAIを学ぶ』のリポジトリ
 https://schemer1341.hatenablog.com
 
+## installation pytorch on apple silicon mac
+<ur>
+  brew update<br>
+  brew upgrade<br>
+  python3 -m pip install --upgrade pip<br>
+  pip3 install --pre torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/nightly/cpu<br>
+</ur>
+
 ## references
 
 深層強化学習(Deep Q Network, DQN)の簡単な例 - 化学系エンジニアがAIを学ぶ
