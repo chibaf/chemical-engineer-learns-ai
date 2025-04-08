@@ -36,3 +36,6 @@ Q Learningとベイズ推定
 
 機械学習の「Q学習」にベイズ推定を取り入れると一体何が起こるのか？ - GIGAZINE　2020年11月02日
 https://gigazine.net/news/20201102-baayesian-perspective-q-learning/
+
+Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero: This repository provides a comprehensive step-by-step guide to building AI projects using the Raspberry Pi AI Kit.
+https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero
